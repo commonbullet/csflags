@@ -1,0 +1,135 @@
+[en]
+MSG_ERROR_CREATE_FLAG = Could not create flag, because there's already 5 flags or flag entity could not be created.
+MSG_ERROR_WRITE_CFG = No flag has been created, nothing has been written.
+MSG_ERROR_LOAD_CFG = CFG file not created yet, no flags have been loaded.
+MSG_WRITE_CFG = Found %d flags. CFG file saved successfully.
+MSG_LOAD_CFG = Loaded %d flags from cfg file.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags match have been stopped because an admin is editing flag points for this map.
+MSG_ERROR_BEING_EDITED = Flags are already being edited by other admin, try later.
+MSG_ERROR_DIR_NOT_FOUND = Cannot open editor because there's no 'csflags' folder in your amxx configs directory.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Create^n^n\r8. Save & Exit
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Fetch^n2. Rotate CCW^n3. Rotate CW^n4. Rename^n6. Delete^n\r8. Save & Exit
+
+[fr]
+MSG_ERROR_CREATE_FLAG = Impossible de creer le drapeau, car il y a deja 5 drapeaux ou entitees de drapeaux qui ne peuvent etre crees.
+MSG_ERROR_WRITE_CFG = Aucun drapeaux a ete crees, rien a ete ecrit.
+MSG_ERROR_LOAD_CFG = Le fichier de configuration n'est pas encore cree, aucun drapeaux de charges.
+MSG_WRITE_CFG = Trouve %d drapeaux. Fichier de configuration sauvegarde avec succes.
+MSG_LOAD_CFG = Charge %d drapeaux a partir du fichier de configuration.
+MSG_CSFLAGS_STOPPED = [CSFlags] Le match CS Flags a ete arrete car un ADMIN est en train d'editer des positions de drapeaux pour cette map.
+MSG_ERROR_BEING_EDITED = Les drapeaux sont deja en train d'etre edites par un autre admin, essaye plus tard.
+MSG_ERROR_DIR_NOT_FOUND = Impossible d'ouvrir l'editeur car il n'y a aucun repertoire 'csflags' dans ton repertoire amxx.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Creer^n^n\r8. Sauvegrder & Quitter
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Chercher^n2. Rotation gauche^n3. Rotation droite^n4. Renommer^n6. Effacer^n\r8. Sauvegrder & Quitter
+
+[ro]
+MSG_ERROR_CREATE_FLAG = Nu se poate crea un steag deoarece au fost create deja 5
+MSG_ERROR_WRITE_CFG = Nici un steag nu a fost creat, nici unul nu a fost scris.
+MSG_ERROR_LOAD_CFG = Fisierul CFG nu a fost creat inca, nici un steag nu a fost incarcat
+MSG_WRITE_CFG = Gasit %d steaguri. Fisierul CFG s-a salvat cu succes
+MSG_LOAD_CFG = Incarcat %d steaguri din fisierul CFG.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags s-a oprit deoarece un admin modifici pozitia steagurilor
+MSG_ERROR_BEING_EDITED = Steagurile sunt deja modificate de un alt admin, incearca mai tarziu
+MSG_ERROR_DIR_NOT_FOUND = Nu se poate deschide editorul deoarece nu este nici un folder 'csflags' in amxx configs folder
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Creaza^n^n\r8. Salveaza si Iesi
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Scoate^n2. Roteste CCW^n3. Roteste CW^n4. Redenumeste^n6. Sterge^n\r8. Salveaza si iesi
+
+[sv]
+MSG_ERROR_CREATE_FLAG = Kunde inte skapa flagga, f'o'r att det redan finns 5 flaggor eller sa kunde inte flaggan bli skapad.
+MSG_ERROR_WRITE_CFG = Inga flaggor har blivigt skapade sa ingenting har blivigt skrivet.
+MSG_ERROR_LOAD_CFG = CFG fil 'a'r inte skapad 'a'n, inga flaggor har blivigt laddade.
+MSG_WRITE_CFG = Hittade %d flaggor. CFG fil sparades.
+MSG_LOAD_CFG = Laddade %d flaggor fran cfg fil.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags match har blivigt stoppad f'o'r att en admin editerar flagg-punkter f'o'r denna karta.
+MSG_ERROR_BEING_EDITED = Flaggorna haller redan pa att bli 'a'ndrade av en annan admin, f'o'rs'o'k senare.
+MSG_ERROR_DIR_NOT_FOUND = Kan inte 'o'ppna editerare f'o'r att det inte finns en 'csflags' folder i din amxx config-katalog.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Skapa^n^n\r8. Spara & Avsluta
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Hitta^n2. Rotera CCW^n3. Rotera CW^n4. D'o'p om^n6. Radera^n\r8. Spara & Avsluta
+
+[hu]
+MSG_ERROR_CREATE_FLAG = Nem lehet zaszlot kesziteni, mert mar van 5 zaszlo vagy az entityt nem lehet lerakni.
+MSG_ERROR_WRITE_CFG = Nem lett zaszlo keszitve, nem lett semmi irva.
+MSG_ERROR_LOAD_CFG = CFG meg nincs elkeszitve, nem lett zaszlo betoltve.
+MSG_WRITE_CFG = Talaltam %d zaszlot, CFG file sikeresen mentve.
+MSG_LOAD_CFG = Betoltve %d zaszlo a cfg filebol.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags megalitva mert az admin eppen a zaszlokat szerkezti ehhez a palyahoz.
+MSG_ERROR_BEING_EDITED = A zaszlokat mar masik admin szerkezti, probald kesobb.
+MSG_ERROR_DIR_NOT_FOUND = Nem lehet megnyitni a szerkeztot mert nincs 'csflags' mappa az amxx configs mappajaban.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Keszites^n^n\r8. Mentes & Kilepes
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Mozgatas^n2. CCW Forgatas^n3. CW Forgatas^n4. Atnevezes^n6. Torles^n\r8. Mentes & Kilepes
+
+[fin]
+MSG_ERROR_CREATE_FLAG = Ei voitu tehda lippua, koska siella on jo 5 lippua tai lippu entitya ei voida tehda.
+MSG_ERROR_WRITE_CFG = Ei lippua ole tehty, mitaan ei ole merkkattu ylos.
+MSG_ERROR_LOAD_CFG = CFG tiedosto ei viella tehty, ei lippuja ole ladattu.
+MSG_WRITE_CFG = Loytyi %d lippuja. CFG tiedosto on tallennettu.
+MSG_LOAD_CFG = Ladattu %d lippuja cfg tiedostosta.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags matsi pysaytettiin koska admin editoi lippujen kohtia tahan mappiin.
+MSG_ERROR_BEING_EDITED = Toinen admini on jo editoinut liput, yrita myohemmin uudestaan.
+MSG_ERROR_DIR_NOT_FOUND = Ei voida avata editoria koska ei ole 'csflags' tiedostoa sinun amxx configs luettelossa.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Tee^n^n\r8. Tallenna & Exit
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Hae^n2. Kierra CCW^n3. Kierra CW^n4. Nimea uudelleen^n6. Poista^n\r8. Tallenna & Exit
+
+[de]
+MSG_ERROR_CREATE_FLAG = Kann Flagge nicht kreieren, da schon 5 Flaggenpunkte gesetzt wurden.
+MSG_ERROR_WRITE_CFG = Keine Flaggen wurden erstellt, nichts wurde geschrieben
+MSG_ERROR_LOAD_CFG = CFG Datei nicht vorhanden. Keine Flaggen wurden geladen!
+MSG_WRITE_CFG = %d Flaggen gefunden! CFG Datei erfolgreich gespeichert!
+MSG_LOAD_CFG = %d Flaggen aus CFG Datei geladen!
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags Kampf wurde gestoppt, da ein Admin die Flaggenpunkte editiert!
+MSG_ERROR_BEING_EDITED = Flaggen werden schon von einem anderen Admin editiert. Versuche es spaeter nochmal!
+MSG_ERROR_DIR_NOT_FOUND = Kann Editor nicht oeffnen, weil kein 'csflags' ordner im AMXX Verzeichnis existiert!
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Kreieren^n^n\r8. Speichern & Ende
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Loeschen^n2. Rotieren CCW^n3. Rotieren CW^n4. Umbenennen^n6. Loeschen^n\r8. Speichern & Ende
+
+[bp]
+MSG_ERROR_CREATE_FLAG = Nao foi possivel criar a bandeira porque o limite de 5 bandeiras jah foi atingido, ou porque a entidade nao pode ser criada.
+MSG_ERROR_WRITE_CFG = Nao foi criada nenhuma bandeira, nada foi escrito.
+MSG_ERROR_LOAD_CFG = O arquivo CFG ainda nao foi criado, nao foi carregada nenhuma bandeira.
+MSG_WRITE_CFG = Encontrada(s) %d bandeira(s). O arquivo CFG foi salvo com sucesso.
+MSG_LOAD_CFG = Carregada(s) %d bandeira(s) do arquivo de configuracao.
+MSG_CSFLAGS_STOPPED = [CSFlags] A partida de CS Flags foi parada porque um administrador esta editando as bandeiras para este mapa.
+MSG_ERROR_BEING_EDITED = As bandeiras jah estao sendo editadas por outro administrador, tente mais tarde.
+MSG_ERROR_DIR_NOT_FOUND = Nao eh possivel abrir o editor porque o diretorio 'csflags' nao foi criado dentro da pasta de configuracao do amxmodx no servidor.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Criar^n^n\r8. Salvar e sair
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Trazer^n2. Rotacionar AH^n3. Rotacionar H^n4. Renomear^n6. Apagar^n\r8. Salvar e sair
+
+[nl]
+MSG_ERROR_CREATE_FLAG = Vlag kon niet gemaakt worden, omdat er al 5 vlaggen zijn of omdat de vlag entity niet gemaakt kon worden.
+MSG_ERROR_WRITE_CFG = Er zijn geen vlaggen gemaakt en er is niets weggeschreven.
+MSG_ERROR_LOAD_CFG = CFG-bestand bestaat nog niet, geen vlaggen zijn geladen.
+MSG_WRITE_CFG = %d vlaggen gevonden. CFG-bestand succesvol opgeslagen.
+MSG_LOAD_CFG = %d vlaggen geladen vanuit het CFG-bestand.
+MSG_CSFLAGS_STOPPED = [CSFlags] CS Flags wedstrijd is gestopt, omdat een admin vlaglocaties aan het veranderen is voor deze map.
+MSG_ERROR_BEING_EDITED = Vlaglocaties worden al veranderd door een andere admin, probeer het later opnieuw.
+MSG_ERROR_DIR_NOT_FOUND = Kon de editor niet openen omdat er geen 'csflags'-map is in je amxx config-map.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Toevoegen ^n^n\r8. Opslaan & Afsluiten
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Kies^n2. Draai tegen de klok in^n3. Draai met de klok mee^n4. Hernoem^n6. Verwijder^n\r8. Opslaan & Afsluiten
+
+[es]
+MSG_ERROR_CREATE_FLAG = No es posible crear una bandera, porque ya hay 5, tampoco puede ser creada una entidad.
+MSG_ERROR_WRITE_CFG = No se ha creado ninguna bandera, nada se ha escrito.
+MSG_ERROR_LOAD_CFG = El archivo CFG no fue creado aun, las banderas no se han cargado.
+MSG_WRITE_CFG = Se han encontrado %d banderas. El archivo CFG fue guardado con exito.
+MSG_LOAD_CFG = Se han cargado %d banderas de el archivo CFG.
+MSG_CSFLAGS_STOPPED = [CSFlags] La partida de CS Flags se ha detenido por que un administrador esta editando los puntos de bandera para este mapa.
+MSG_ERROR_BEING_EDITED = Las banderas ya están siendo modificadas por otro administrador, intente más tarde.
+MSG_ERROR_DIR_NOT_FOUND = No se puede abrir el editor porque no existe la carpeta 'csflags' en el directorio para configuraciones del amxx.
+MENU_BODY_MAIN = \y[CSFLAGS_EDIT]^n^n\w1. Create^n^n\r8. Guardar & Salir
+MENU_BODY_EDIT = \y[CSFLAGS_EDIT]^n^n\w1. Traer^n2. Rotar CCW^n3. Rotar CW^n4. Renombrar^n6. Borrar^n\r8. Guardar & Salir
+
+[pl]
+MSG_HEADER = [CSFLAGS]
+MSG_FLAGSTATE_NOTIFY = %%e[CSFLAGS] %%g%s(%d)%%e przejal  flage %%g[%s]%%e dla %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[CSFLAGS] %%n%s(%d) przejal flage %%g[%s]%%e dla %s%%e."
+MSG_COUNTER = Restart flag za %d
+MSG_RESTARTED = Flagi zrestartowane!
+MSG_CONS_NOCFG = Nie mozna rozpoczac rozgrywki, poniewaz nie ma configu  albo pliku z mapami.
+MSG_CONS_NOT_ENABLED = Nie mozna rozpoczac rozgrywki, poniewaz CSFlag jest wylaczony.
+MSG_TIME_OVER = Czas dobiegl konca. Czekamy na zwyciezce...
+MSG_CHANGEMAP_DELAY = Mecz CS Flags dobiegl konca, czekamy na nastepna mape.
+HUD_TEAMWINNER = %s wygrali ta rozgrywke!
+HUD_TEAMWINS = %s Wygrali ta runde! 
+HUD_BESTSCORE = ^n^nNajlepszymi w tym spotkaniu byli:
+TEAM_DESC_CT = Anty-terrorysci
+TEAM_DESC_T = Terrorysci
